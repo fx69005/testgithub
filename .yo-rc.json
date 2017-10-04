@@ -1,0 +1,16 @@
+{
+  "generator-ngx-rocket": {
+    "version": "2.1.3",
+    "props": {
+      "appName": "partnair4",
+      "target": [
+        "web"
+      ],
+      "ui": "bootstrap",
+      "auth": true,
+      "projectName": "partnair-4",
+      "mobile": [],
+      "webview": []
+    }
+  }
+}
