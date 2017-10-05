@@ -10,7 +10,7 @@ import { QuoteService } from './quote.service';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
-
+  testBranch : string;
   quote: string;
   isLoading: boolean;
 
