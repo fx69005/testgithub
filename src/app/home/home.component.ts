@@ -13,6 +13,7 @@ export class HomeComponent implements OnInit {
   testBranch : string;
   quote: string;
   isLoading: boolean;
+  test: string;
 
   constructor(private quoteService: QuoteService) {}
 
