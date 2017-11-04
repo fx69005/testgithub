@@ -10,12 +10,6 @@ import { environment } from '../../environments/environment';
 export class AboutComponent implements OnInit {
 
   version: string = environment.version;
-
-  constructor() { }
-
-  ngOnInit() { 
-    let maVar:string = 'lol'
-    
-  }
-
+  constructor() {}
+  ngOnInit() {}
 }

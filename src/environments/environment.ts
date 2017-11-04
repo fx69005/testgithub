@@ -11,5 +11,13 @@ export const environment = {
   supportedLanguages: [
     'en-US',
     'fr-FR'
-  ]
+  ],
+  firebase: {
+    apiKey: 'AIzaSyC0kI_oksH4kBTb4qM7cKIm9mo8PnUPSZ8',
+    authDomain: 'projet-demo-new-bbd.firebaseapp.com',
+    databaseURL: 'https://projet-demo-new-bbd.firebaseio.com',
+    projectId: 'projet-demo-new-bbd',
+    storageBucket: 'projet-demo-new-bbd.appspot.com',
+    messagingSenderId: '661181088347'
+  }
 };
