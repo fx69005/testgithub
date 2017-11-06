@@ -32,6 +32,6 @@ export class AboutComponent implements OnInit {
   constructor() {}
   ngOnInit() {
     let lol = "9";
-    let lol2 = "2";
+    let lol2 = "10";
   }
 }
