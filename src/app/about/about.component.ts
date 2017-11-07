@@ -33,5 +33,6 @@ export class AboutComponent implements OnInit {
   ngOnInit() {
     let lol = "9";
     let lol2 = "10";
+    let lol3 = "3";
   }
 }
