@@ -34,5 +34,8 @@ export class AboutComponent implements OnInit {
     let lol = "9";
     let lol2 = "10";
     let lol3 = "3";
+    let lol4 = "4";
+    let lol6 = "6";
+    let lol5 = "5";
   }
 }
