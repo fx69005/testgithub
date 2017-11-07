@@ -31,6 +31,16 @@ export class AboutComponent implements OnInit {
   version: string = environment.version;
   constructor() {}
   ngOnInit() {
-    let lol = "9";
+    let lol = "1";
+    let lol2 = "2";
+    let lol3 = "3";
+
+    let lol4 = "4";
+    let lol5 = "5";
+    let lol6 = "6";
+
+    let lol7 = "7";
+    let lol8 = "8";
+    let lol9 = "9";
   }
 }
