@@ -40,5 +40,6 @@ export class AboutComponent implements OnInit {
     let lol9 = "9";
     let lol10 = "10";
     let lol10 = "11";
+    let lol10 = "12";
   }
 }
